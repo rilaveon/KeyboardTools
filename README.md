@@ -12,4 +12,4 @@ Simple AHK script that create shortcut for cool symbols
 
 ## Download
 
-[Compiled EXE](https://github.com/rilaveon/KeyboardTools/releases/download/prod/KeyboardTools.exe)
+[Compiled EXE](https://github.com/rilaveon/KeyboardTools/releases/download/1.1/KeyboardTools.ahk)
