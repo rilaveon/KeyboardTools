@@ -1,5 +1,5 @@
 # KeyboardTools
-Simple AHK script that create shortcuts for typography simbols. For Windows 10 and 11
+Simple AHK script that create shortcuts for typography symbols. For Windows 10 and 11
 
 
 ## Compatibility
