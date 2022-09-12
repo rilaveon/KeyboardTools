@@ -24,4 +24,4 @@ Simple AHK script that create shortcuts for typography symbols for Windows 10 an
 
 ## Download
 
-[Compiled EXE](https://github.com/rilaveon/KeyboardTools/releases/download/1.1/KeyboardTools.ahk)
+[Releases](https://github.com/rilaveon/KeyboardTools/releases/tag/1.2)
