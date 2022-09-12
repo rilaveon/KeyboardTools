@@ -26,4 +26,23 @@ Return
 QuoteRight:
 SendRaw, »
 Return
-
+; Euro
+!+E::
+CurrencyEUR:
+SendRaw, €
+Return
+; Russian Ruble
+!+R::
+CurrencyRUB:
+SendRaw, ₽
+Return
+; Ukrainian Hryvnia
+!+U::
+CurrencyUAH:
+SendRaw, ₴
+Return
+; Polish Zloty
+!+P::
+CurrencyPLN:
+SendRaw, zł
+Return

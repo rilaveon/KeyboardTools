@@ -1,20 +1,25 @@
 # KeyboardTools
-Simple AHK script that create shortcuts for typography symbols. For Windows 10 and 11
+Simple AHK script that create shortcuts for typography symbols for Windows 10 and 11
 
+## Shortcuts
 
-## Compatibility
+### Hyphen 
+<kbd>Alt</kbd> + <kbd>-</kbd> for <kbd>—</kbd>
 
-- Windows 11 — ✅ Works
-- Windows 10 — ⚠️ It works, but if script is in startup, an error may appear that the `<` and `>` buttons could not be assigned. It may not be related to the Windows version, but after the update, this error no longer appeared.
-- Windows 8.1, 8, 7, XP — ❓ Not checked
+### Quotation marks
 
-## Shortcut
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd><</kbd> for <kbd>«</kbd>
 
-``Alt`` + ``-`` for get a `—` 
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>></kbd> for <kbd>»</kbd>
 
-``Shift`` + ``Alt`` + ``<`` for get a `«` 
+### Currencies
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>E</kbd> for <kbd>€</kbd> (Euro)
 
-``Shift`` + ``Alt`` + ``>`` for get a `»` 
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd> for <kbd>₽</kbd> (Russian Ruble)
+
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>U</kbd> for <kbd>₴</kbd> (Ukrainian Hryvnia)
+
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>P</kbd> for <kbd>zł</kbd> (Polish Zloty)
 
 
 ## Download
